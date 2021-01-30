@@ -1,0 +1,11 @@
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaEntidad\obj\Debug\CapaEntidad.pdb

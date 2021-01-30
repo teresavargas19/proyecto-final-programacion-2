@@ -1,0 +1,20 @@
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaNegocio\obj\Debug\CapaNegocio.pdb

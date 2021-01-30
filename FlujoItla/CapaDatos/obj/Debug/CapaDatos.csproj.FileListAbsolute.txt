@@ -1,0 +1,16 @@
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\wilfre medina\Documents\Visual Studio 2015\Projects\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\teres\Downloads\proyecto final programacion\FlujoITLA\CapaDatos\obj\Debug\CapaDatos.pdb
